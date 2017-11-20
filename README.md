@@ -1,6 +1,6 @@
 # knowledge-map
 
-> A application to display your knowledge map
+> An application to display your knowledge map
 
 ## Build Setup
 
